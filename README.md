@@ -2,14 +2,14 @@
 
 早稲田大学 数学科 / CoeFont Co., Ltd.
 
-iOS/visionOS エンジニア。リアルタイム音声処理と日本語入力に興味があります。
+iOS/visionOS
 
 ### Awards
 
-- **未踏IT 2024** - azooKey on macOS
+- **未踏IT 2024 スーパークリエイタ** - azooKey on macOS
 - **Swift Student Challenge 2023** - Apple WWDC23
 - **NLP2025 若手奨励賞** - Zenzai (共著)
-- **日本学生科学賞 文科大臣賞** - 2019
+- **日本学生科学賞 1等** - 2019
 
 ### Projects
 
