@@ -30,5 +30,4 @@ iOS/visionOS
 ### Links
 
 [![Twitter](https://img.shields.io/badge/-@nya3__neko2-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/nya3_neko2)
-[![Portfolio](https://nya3neko2.dev)
 [![Qiita](https://img.shields.io/badge/-Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/nya3_neko2)
